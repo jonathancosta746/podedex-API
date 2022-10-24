@@ -113,7 +113,7 @@
 }
 
 .pokemon .detail .types .type {
-    color: #fff;
+    color: rgb(21, 82, 9);
     padding: .25rem .5rem;
     margin: .25rem 0;
     font-size: .625rem;
