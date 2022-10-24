@@ -95,7 +95,7 @@
 
 .pokemon .name {
     text-transform: capitalize;
-    color: #fff;
+    color: rgb(21, 82, 9);
     margin-bottom: .25rem;
 }
 
